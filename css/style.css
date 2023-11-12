@@ -1,0 +1,17 @@
+.dark-mode {
+  border: 1px solid white;
+}
+.dark-mode-theme {
+  background-color: black;
+  color: white;
+}
+.dark-mode-theme-card {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+}
+.dark-mode-theme-card-modal {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+}
